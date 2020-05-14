@@ -1,4 +1,3 @@
 # git-course
 
-
-README.md. This was modified locally
+This line was modified manually during conflict resolution.
